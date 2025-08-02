@@ -11,7 +11,7 @@
 - This project was a hands-on dive into classic ROM hacking practices, emphasizing creative exploration and technical experimentation within the constraints of NES hardware.
 ---
 ### My Experience with the Project
-- Overall, I thought this project taught me a lot about ROM hacking, virtual machines, and emulators. 
+- Overall, this project taught me a lot about ROM hacking, virtual machines, and emulators. 
 
 - I used Tile Layer Pro to edit the tiles for the Mario and Princess Peach sprites. I originally tried using Mesen but realized that a graphics editor would be much more efficient. The first editor I tried was YY-CHR but the tiles were all compressed and not boxed properly so I switched to Tile Layer Pro.
 
