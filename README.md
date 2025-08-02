@@ -21,7 +21,8 @@
 
 - Almost all of the applications I downloaded for this project are for WindowsOS. Since I am working from my MacBook, I used UTM to create a virtual machine for Windows. I downloaded Tile Layer Pro, HxD, and Lunar IPS there, and installed Mesen on my Mac. I used the network drive to share project files. I used this method because having Mesen on MacOS made testing the game a lot smoother and faster. 
 
-### _____________________________________________________________________
+---
+## Hex Value Changes 
 ### Changes made to the MARIO sprites
 ### =============================================================
 ** Super Mario Walk 1 ** 
@@ -50,7 +51,6 @@ The hex values for offsets ```0x8060```, ```0x8070``` and ```0x8080``` which
 correspond to Mario's right body, left foot, and right foot respectively, 
 did not change. 
 
-### Hex Value Changes 
 ### _____________________________________________________________________
 ** Super Mario Walk 2** 
 - Offset ```0x8090```: (*"Mario's top left head"*):
